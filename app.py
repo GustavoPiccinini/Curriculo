@@ -31,7 +31,7 @@ PROJECTS = [
             "de inadimplência. Dashboard em Streamlit com DuckDB como engine de consulta."
         ),
         "stack": [("b-violet", "PySpark"), ("b-green", "AWS S3"), ("b-sky", "DuckDB"), ("b-amber", "Streamlit")],
-        "link": "https://github.com/GustavoPiccinini/Data_Lake_PoD_Cartoes",
+        "link": "https://datalakecartoes.streamlit.app/",
     },
     {
         "title": "Data Lake E-commerce",
